@@ -1,2 +1,4 @@
-# Python_scripts
-general scrits to gather and organize data
+ Files:
+
+
+1) error
